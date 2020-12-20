@@ -3,7 +3,7 @@ Performing analysis on Kickstarter
 # Kickstarting with Excel
 
 ## Overview of Project
-
+Louise is looking to 
 ### Purpose
 
 ## Analysis and Challenges
