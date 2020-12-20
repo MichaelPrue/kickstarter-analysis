@@ -11,7 +11,7 @@ Louise is looking to
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
