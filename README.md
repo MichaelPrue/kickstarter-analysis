@@ -9,7 +9,7 @@ Louise is looking to
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Theater_Outcomes_vs_Launch](Desktop/myHomework/myFirstRepository/moduleOneChallenge/resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
