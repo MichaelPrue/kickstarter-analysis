@@ -27,6 +27,7 @@ In the second graph below we show the success rate of play kickstarters based on
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
  -Kickstarters were most frequently started in May being 45% higher than the mean. May also had the highest success rate at 66% with a mean of 61%. Starting a fundraising campaign in May would give a slightly higher chance of succeeding.
+ 
  -December is the exact opposite of May having the lowest frequency of campaigns started being 65% lower than the mean of campaigns started and having the lowest success rate of all the months at 49% with a mean success rate of 61%. December would be the worst month to start funding.
 
 - What can you conclude about the Outcomes based on Goals?
@@ -36,8 +37,9 @@ In the second graph below we show the success rate of play kickstarters based on
 - What are some limitations of this dataset?
 
  -The only type of location data is “country” which is pretty broad. Was the campaign started in New York or was it started in Iowa? Depending on where Louise wanted to start her fundraising
+ 
   -How long it took to meet the goal for funding could have been a useful point to look at. Considering that some of the kickstarters reached over 100% before they ended there is no clear metric to show the date of when the goal was met.
   
 - What are some other possible tables and/or graphs that we could create?
 
-  -Its not clear how what the criteria for "staff picks" but showing a table of success rate of fundraiser for campaigns that are "staff picks" vs. not "staff picks" with in the "theater" category 
+ -Its not clear how what the criteria for "staff picks" but showing a table of success rate of fundraiser for campaigns that are "staff picks" vs. not "staff picks" with in the "theater" category 
