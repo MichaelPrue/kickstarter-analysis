@@ -42,4 +42,4 @@ In the second graph below we show the success rate of play kickstarters based on
   
 - What are some other possible tables and/or graphs that we could create?
 
- -Its not clear how what the criteria for "staff picks" but showing a table of success rate of fundraiser for campaigns that are "staff picks" vs. not "staff picks" with in the "theater" category 
+ -Its not clear how what the criteria for "staff picks" but showing a table of success rate of fundraiser for campaigns that are "staff picks" vs. not "staff picks" within the "theater" category.
